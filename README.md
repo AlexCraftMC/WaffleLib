@@ -1,0 +1,2 @@
+# WaffleLib
+A small library
